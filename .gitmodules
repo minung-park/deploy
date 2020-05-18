@@ -4,3 +4,6 @@
 [submodule "kubeflow/ref/handson-kubeflow"]
 	path = kubeflow/ref/handson-kubeflow
 	url = https://github.com/mojokb/handson-kubeflow.git
+[submodule "kubeflow/ref/kubeflow-book"]
+	path = kubeflow/ref/kubeflow-book
+	url = https://github.com/mojokb/kubeflow-book.git

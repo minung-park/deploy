@@ -1,3 +1,6 @@
 [submodule "kubernetes/ref/kubernetes-in-action"]
 	path = kubernetes/ref/kubernetes-in-action
 	url = https://github.com/luksa/kubernetes-in-action.git
+[submodule "kubeflow/ref/handson-kubeflow"]
+	path = kubeflow/ref/handson-kubeflow
+	url = https://github.com/mojokb/handson-kubeflow.git
